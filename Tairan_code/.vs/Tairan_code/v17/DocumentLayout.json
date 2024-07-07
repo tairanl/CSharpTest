@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\vsproject\\Tairan_code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD337C5-B28E-48ED-BFE3-E7F227DC9AE6}|Tairan_code.csproj|f:\\vsproject\\tairan_code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD337C5-B28E-48ED-BFE3-E7F227DC9AE6}|Tairan_code.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD337C5-B28E-48ED-BFE3-E7F227DC9AE6}|Tairan_code.csproj|f:\\vsproject\\tairan_code\\challengebonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD337C5-B28E-48ED-BFE3-E7F227DC9AE6}|Tairan_code.csproj|solutionrelative:challengebonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD337C5-B28E-48ED-BFE3-E7F227DC9AE6}|Tairan_code.csproj|f:\\vsproject\\tairan_code\\challenge4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD337C5-B28E-48ED-BFE3-E7F227DC9AE6}|Tairan_code.csproj|solutionrelative:challenge4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD337C5-B28E-48ED-BFE3-E7F227DC9AE6}|Tairan_code.csproj|f:\\vsproject\\tairan_code\\challenge1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD337C5-B28E-48ED-BFE3-E7F227DC9AE6}|Tairan_code.csproj|solutionrelative:challenge1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD337C5-B28E-48ED-BFE3-E7F227DC9AE6}|Tairan_code.csproj|f:\\vsproject\\tairan_code\\challenge2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD337C5-B28E-48ED-BFE3-E7F227DC9AE6}|Tairan_code.csproj|solutionrelative:challenge2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD337C5-B28E-48ED-BFE3-E7F227DC9AE6}|Tairan_code.csproj|f:\\vsproject\\tairan_code\\challenge3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD337C5-B28E-48ED-BFE3-E7F227DC9AE6}|Tairan_code.csproj|solutionrelative:challenge3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChallengeBonus.cs",
+              "DocumentMoniker": "F:\\vsproject\\Tairan_code\\ChallengeBonus.cs",
+              "RelativeDocumentMoniker": "ChallengeBonus.cs",
+              "ToolTip": "F:\\vsproject\\Tairan_code\\ChallengeBonus.cs",
+              "RelativeToolTip": "ChallengeBonus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T08:16:19.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Challenge4.cs",
+              "DocumentMoniker": "F:\\vsproject\\Tairan_code\\Challenge4.cs",
+              "RelativeDocumentMoniker": "Challenge4.cs",
+              "ToolTip": "F:\\vsproject\\Tairan_code\\Challenge4.cs",
+              "RelativeToolTip": "Challenge4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T08:11:58.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Challenge3.cs",
+              "DocumentMoniker": "F:\\vsproject\\Tairan_code\\Challenge3.cs",
+              "RelativeDocumentMoniker": "Challenge3.cs",
+              "ToolTip": "F:\\vsproject\\Tairan_code\\Challenge3.cs",
+              "RelativeToolTip": "Challenge3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T08:05:51.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Challenge2.cs",
+              "DocumentMoniker": "F:\\vsproject\\Tairan_code\\Challenge2.cs",
+              "RelativeDocumentMoniker": "Challenge2.cs",
+              "ToolTip": "F:\\vsproject\\Tairan_code\\Challenge2.cs",
+              "RelativeToolTip": "Challenge2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T07:42:39.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Challenge1.cs",
+              "DocumentMoniker": "F:\\vsproject\\Tairan_code\\Challenge1.cs",
+              "RelativeDocumentMoniker": "Challenge1.cs",
+              "ToolTip": "F:\\vsproject\\Tairan_code\\Challenge1.cs",
+              "RelativeToolTip": "Challenge1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAACgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T07:20:46.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\vsproject\\Tairan_code\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\vsproject\\Tairan_code\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T07:12:09.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

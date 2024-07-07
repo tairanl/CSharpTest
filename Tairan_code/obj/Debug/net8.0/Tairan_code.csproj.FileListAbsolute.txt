@@ -1,0 +1,14 @@
+F:\vsproject\Tairan_code\obj\Debug\net8.0\Tairan_code.GeneratedMSBuildEditorConfig.editorconfig
+F:\vsproject\Tairan_code\obj\Debug\net8.0\Tairan_code.AssemblyInfoInputs.cache
+F:\vsproject\Tairan_code\obj\Debug\net8.0\Tairan_code.AssemblyInfo.cs
+F:\vsproject\Tairan_code\obj\Debug\net8.0\Tairan_code.csproj.CoreCompileInputs.cache
+F:\vsproject\Tairan_code\bin\Debug\net8.0\Tairan_code.exe
+F:\vsproject\Tairan_code\bin\Debug\net8.0\Tairan_code.deps.json
+F:\vsproject\Tairan_code\bin\Debug\net8.0\Tairan_code.runtimeconfig.json
+F:\vsproject\Tairan_code\bin\Debug\net8.0\Tairan_code.dll
+F:\vsproject\Tairan_code\bin\Debug\net8.0\Tairan_code.pdb
+F:\vsproject\Tairan_code\obj\Debug\net8.0\Tairan_code.dll
+F:\vsproject\Tairan_code\obj\Debug\net8.0\refint\Tairan_code.dll
+F:\vsproject\Tairan_code\obj\Debug\net8.0\Tairan_code.pdb
+F:\vsproject\Tairan_code\obj\Debug\net8.0\Tairan_code.genruntimeconfig.cache
+F:\vsproject\Tairan_code\obj\Debug\net8.0\ref\Tairan_code.dll
